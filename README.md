@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![QSCTech-Sange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSCTech-Sange&count_private=true&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![QSCTech-Sange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSCTech-Sange&count_private=true&theme=nord&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
