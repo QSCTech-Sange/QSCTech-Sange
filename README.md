@@ -1,7 +1,5 @@
 ### Hi there 👋
  ![](https://visitor-badge.laobi.icu/badge?page_id=QSCTech-Sange.visitor-badge)
-<!--
-**QSCTech-Sange/QSCTech-Sange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 😄 Nice To meet you ~
 - ❤️ Love programming  
