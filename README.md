@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 
 
-[![QSCTech-Sange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSCTech-Sange&count_private=true&theme=nord&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![QSCTech-Sange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSCTech-Sange&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSCTech-Sange&theme=nord&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSCTech-Sange&theme=dracula&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
