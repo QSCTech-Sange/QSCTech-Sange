@@ -26,5 +26,5 @@
   - 2021 - 2023(est.)
 
 #### :love_letter: Contact
-- 📫 You can **always** keep in touch me via [E-mail](mailto:3160105521@zju.edu.cn)
+- 📫 You can **always** keep in touch with me via [E-mail](mailto:3160105521@zju.edu.cn)
 - ⚡ Super-Super-Fast response ~
