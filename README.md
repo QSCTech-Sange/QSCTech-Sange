@@ -12,13 +12,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSCTech-Sange&theme=dracula&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
 
 #### Education
-👨‍🎓 **Zhejiang University, China**
+- 👨‍🎓 **Zhejiang University, China**  
 Bachelor | Finance | 2016 - 2020
-👨‍🎓 **Zhejiang University, China**
+- 👨‍🎓 **Zhejiang University, China**  
 Bachelor | Computer Science | 2016 - 2021(est)
-👨‍🎓 **The Chinese University of Hong Kong, Shenzhen, China**
+- 👨‍🎓 **The Chinese University of Hong Kong, Shenzhen, China**  
 Master | Data Science | 2021 - 2023(est)
 
 #### Contact
-📫 You can **always** keep in touch me via [E-mail](mailto:3160105521@zju.edu.cn)
-⚡ Super-Super-Fast response ~
+- 📫 You can **always** keep in touch me via [E-mail](mailto:3160105521@zju.edu.cn)
+- ⚡ Super-Super-Fast response ~
