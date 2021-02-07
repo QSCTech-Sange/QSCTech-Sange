@@ -1,21 +1,26 @@
 ### Hi there 👋
-
+ ![](https://visitor-badge.laobi.icu/badge?page_id=QSCTech-Sange.visitor-badge)
 <!--
 **QSCTech-Sange/QSCTech-Sange** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 😄 Nice To meet you ~
+- ❤️ Love programming  
+- ✍️ Growing strong
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+✨ About My Github profile
 
 [![QSCTech-Sange's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSCTech-Sange&count_private=true&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSCTech-Sange&theme=dracula&hide=HTML)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Education
+👨‍🎓 **Zhejiang University, China**
+Bachelor | Finance | 2016 - 2020
+👨‍🎓 **Zhejiang University, China**
+Bachelor | Computer Science | 2016 - 2021(est)
+👨‍🎓 **The Chinese University of Hong Kong, Shenzhen, China**
+Master | Data Science | 2021 - 2023(est)
+
+#### Contact
+📫 You can **always** keep in touch me via [E-mail](mailto:3160105521@zju.edu.cn)
+⚡ Super-Super-Fast response ~
