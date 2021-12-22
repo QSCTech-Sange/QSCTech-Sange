@@ -19,7 +19,7 @@
 - 👨‍🎓 [**Zhejiang University, China**](http://www.zju.edu.cn/)
   - Bachelor
   - Computer Science 
-  - 2016 - 2021(est.)
+  - 2016 - 2021
 - 👨‍🎓 [**The Chinese University of Hong Kong, Shenzhen, China**](https://www.cuhk.edu.cn/)
   - Master
   - Data Science
