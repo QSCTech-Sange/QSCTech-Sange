@@ -1,3 +1,7 @@
+目前就职于顽岩资管
+可以通过下面的方式详细了解及内推：
+https://leetcode.cn/discuss/post/4023261/nei-tui-wan-yan-zi-chan-2027jie-quan-qiu-uuqf/
+
 ### Hi there 👋
  ![](https://visitor-badge.laobi.icu/badge?page_id=QSCTech-Sange.visitor-badge)
 
@@ -10,6 +14,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QSCTech-Sange&theme=dracula&hide=HTML&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 #### :books: Education
 - 👨‍🎓 [**Zhejiang University, China**](http://www.zju.edu.cn/)
